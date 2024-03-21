@@ -102,20 +102,56 @@ header {
 <main id="main">
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <h3 id="MovieTitle">Крепкий Орешек</h3>
-            <span class="green">9.8</span>
+            <h3 id="MovieTitle">Мастер и Маргарита</h3>
+            <span class="green">8.0</span>
         </div>
         <div class="overview">
-            <h3 id="Description">Описание фильма</h3>
+            <h3 id="Description">2023, Россия, драма, фэнтези</h3>
         </div>
     </div>
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <h3 id="MovieTitle">Не Крепкий Орешек</h3>
-            <span class="green">8.0</span>
+            <h3 id="MovieTitle">Дюна: Часть вторая</h3>
+            <span class="green">8.6</span>
         </div>
         <div class="overview">
-            <h3 id="Description">Описание фильма</h3>
+            <h3 id="Description">2024, США, 
+                фантастика, боевик, драма, приключения </h3>
+        </div>
+    </div>
+    <div class="movie" id="movie">
+        <div class="movie-info" id="MovieInfoDiv">
+            <h3 id="MovieTitle">Бедные-несчастные</h3>
+            <span class="green">7.8</span>
+        </div>
+        <div class="overview">
+            <h3 id="Description">2023, Ирландия, Великобритания, США, Венгрия,  драма, комедия, фантастика</h3>
+        </div>
+    </div>
+    <div class="movie" id="movie">
+        <div class="movie-info" id="MovieInfoDiv">
+            <h3 id="MovieTitle">Лёд 3</h3>
+            <span class="green">7.9</span>
+        </div>
+        <div class="overview">
+            <h3 id="Description">2024, Россия, мелодрама</h3>
+        </div>
+    </div>
+    <div class="movie" id="movie">
+        <div class="movie-info" id="MovieInfoDiv">
+            <h3 id="MovieTitle">Оппенгеймер</h3>
+            <span class="green">8.2</span>
+        </div>
+        <div class="overview">
+            <h3 id="Description">2023,  США, Великобритания, биография, драма, история</h3>
+        </div>
+    </div>
+    <div class="movie" id="movie">
+        <div class="movie-info" id="MovieInfoDiv">
+            <h3 id="MovieTitle">Кунг-фу Панда 4</h3>
+            <span class="green">6.7</span>
+        </div>
+        <div class="overview"><h3>2024, США, Китай, мультфильм, фэнтези, боевик, комедия, приключения, семейный</h3>
         </div>
     </div>
 </main>
